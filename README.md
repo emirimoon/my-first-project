@@ -1,2 +1,7 @@
-# my-first-project
-This is my first project on GitHub.
+# About my first project
+**Color Flipper**  
+It has two versions, simple and Hax color.  
+You can _flip_ and take color hax that you like.
+
+
+
